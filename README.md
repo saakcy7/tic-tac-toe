@@ -22,7 +22,7 @@ npm (version 6 or later)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/tic-tac-toe-react.git
+git clone https://github.com/saakcy7/tic-tac-toe.git
 
 Install dependencies:
 
